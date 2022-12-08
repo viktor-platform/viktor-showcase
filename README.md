@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/SDK-v13.5.0-blue) <Please check version is the same as specified in requirements.txt>
 # VIKTOR showcase app
 Welcome to the VIKTOR showcase app!
 
